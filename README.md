@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @miyatama
-- 🌱 I’m currently learning Erlang
+- 🌱 I’m currently learning Erlang, Rust
 - 📫 How to reach me n.miyata080825@gmail.com
 
 <!---
